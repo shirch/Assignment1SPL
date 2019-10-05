@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ass1.dir/src/Commands.cpp.o CMakeFiles/ass1.dir/src/Files.cpp.o CMakeFiles/ass1.dir/src/FileSystem.cpp.o CMakeFiles/ass1.dir/src/Main.cpp.o CMakeFiles/ass1.dir/src/stringFunction.cpp.o CMakeFiles/ass1.dir/src/Environment.cpp.o  -o ass1 
